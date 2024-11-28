@@ -14,6 +14,6 @@ Différentes architectures ont été testées : ResNet50, ConvNeXt (V2) ...
 
 ## Évaluation
 
-Le modèle final est très performant et obtient 99% de recall, precision et accuracy.
+Le modèle final est très performant et obtient **99% de recall, precision et accuracy**.
 
 ![image](https://github.com/user-attachments/assets/ac190eaa-9d2c-43a8-93ac-f2fc05622306)
