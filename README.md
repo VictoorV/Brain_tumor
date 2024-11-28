@@ -12,7 +12,7 @@ Le dataset a été augmenté en utilisant des techniques telles que des symmétr
 
 Différentes architectures ont été testées : ResNet50, ConvNeXt (V2) ...
 
-## Metrics and evaluation
+## Évaluation
 
 Le modèle final est très performant et obtient 99% de recall, precision et accuracy.
 
